@@ -1,2 +1,2 @@
 # golang-snaps
-A place of gaoling code snap I found useful
+A place of golang code snap I found useful
